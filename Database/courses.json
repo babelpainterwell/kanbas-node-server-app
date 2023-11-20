@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "RS101",
+    "name": "Rocket Propulsion",
+    "number": "RS4550",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS102",
+    "name": "Aerodynamics",
+    "number": "RS4560",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS103",
+    "name": "Spacecraft Design",
+    "number": "RS4570",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS104",
+    "name": "LEGO Robotics",
+    "number": "RS4580",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS105",
+    "name": "F1 Racing",
+    "number": "RS4590",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS106",
+    "name": "Movie Making",
+    "number": "RS4600",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS107",
+    "name": "Ice Skating",
+    "number": "RS4610",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "_id": "RS108",
+    "name": "Ice Cream Selling",
+    "number": "RS4620",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  }
+]
